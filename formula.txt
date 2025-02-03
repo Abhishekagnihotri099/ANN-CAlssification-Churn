@@ -1,1 +1,4 @@
 
+Transaction Quality = IF(NOT(ISNUMBER (QMStblTMQTransactionMerge[OverallPossible - Copy])),0, IF
+(QMStbITMQTransactionMerge[OverallPossible - Copy]=0,0, QMStblTMQTransactionMerge[OverallActual -
+copy /QMStbITMQTransactionMerge[OverallPossible - Copy])*100)
