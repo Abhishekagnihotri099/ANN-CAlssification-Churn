@@ -1,0 +1,14 @@
+🚀 Proud to share a breakthrough we’ve been working on! 🚀
+We’ve successfully built a GenAI-enabled Data Retrieval Utility that simplifies complex data access through natural language queries. 💬⚙️
+This utility eliminates the dependency on hardcoded SQL and Python joins, enabling dynamic, on-the-fly query generation and significantly reducing turnaround time for data requests. It empowers teams to:
+✅ Use plain language to generate tailored SQL queries
+
+✅ Avoid deep SQL/Python debugging
+
+✅ Replace static query templates with real-time LLM-generated SQL
+
+✅ Retrieve fully joined and decrypted data — all in one step!
+This innovation was made possible through the collaborative efforts with Raj 🤝 and the expert guidance and deep domain knowledge of our lead, Utkarsh 🙌. Their support and insight were instrumental in shaping the architecture and bringing this idea to life.
+Looking forward to expanding this further across more use cases and sharing detailed results soon!
+#GenAI #DataEngineering #AIUtility #NaturalLanguageToSQL #Innovation #Teamwork #LLM #PostgreSQL #AIinAction #Automation
+ 
